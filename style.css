@@ -11,7 +11,7 @@ h1{
     text-align: center;
 }
 form{
-    max-width: 1000px;
+    max-width: 500px;
     margin: 50px auto;
     background-color: #bdc020;
     padding: 20px;
@@ -19,7 +19,7 @@ form{
     border-radius: 8px;
 }
 input,select,textarea,button{
-    width: 100%;
+    width: 90%;
     margin-bottom: 15px;
     padding: 10px;
     border: 1px solid #463c3c;
